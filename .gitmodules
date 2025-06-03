@@ -1,0 +1,3 @@
+[submodule "i3_typing_master"]
+	path = i3_typing_master
+	url = https://github.com/Ratanakdavid/i3_typing_master.git
